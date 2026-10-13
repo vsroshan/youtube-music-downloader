@@ -46,7 +46,7 @@ Installation
 
 1. Clone the repository
 
-git clone https://github.com/YOUR-USERNAME/youtube-music-downloader.git
+git clone https://github.com/vsroshan/youtube-music-downloader.git
 cd youtube-music-downloader
 
 Replace YOUR-USERNAME with the GitHub username that owns this repository.
